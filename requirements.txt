@@ -1,0 +1,5 @@
+Flask==3.0.3
+Flask_Cors==4.0.1
+Pillow==10.3.0
+pyzbar==0.1.9
+gunicorn
